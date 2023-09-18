@@ -1,0 +1,11 @@
+{
+  "cSpell.words": ["Leverade"],
+  "todohighlight.keywords": [
+    {
+      "text": "USAGE:",
+      "color": "white",
+      "backgroundColor": "#0000ff",
+      "overviewRulerColor": "grey"
+    }
+  ]
+}
